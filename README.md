@@ -2,7 +2,7 @@
 
 ## Overview
 
-Practice importing, altering, and analyzing data using SQL. The project follows an [instruction guide](https://medium.com/@Armonia1999/data-analysis-project-using-sql-to-clean-and-analyse-data-64a24e84b730) and gave me experience with MySQL, charting, and data analysis. All images are sourced from my MYSQL project, some graphs are too large to include and will be cropped. This ReadMe just shows a few graph examples, the project files will have all the charts.
+Practice importing, altering, and analyzing data using SQL. The project follows an [instruction guide](https://medium.com/@Armonia1999/data-analysis-project-using-sql-to-clean-and-analyse-data-64a24e84b730) and gave me experience with MySQL, charting, and data analysis. All images are sourced from my MYSQL project, some graphs are too large to include in full and will be cropped. This ReadMe just shows a few graph examples, the project files will have all the charts.
 
 ## Features:
 
