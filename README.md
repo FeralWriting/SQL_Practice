@@ -28,5 +28,5 @@ Finally, I compare the data in relation to each other, to determine how customer
 
 ### Issues
 
-I did not run into many issues on this short project, however importing the data gave me a problem initially. This is because I was changing my column datatypes too early, since I wanted to have columns like the call_timestamp or csat_score to be imported as datetime and int respectively. Unfortunately, because there were null values/filler inputs, none of my data would import. To fix this, I imported the data as text first instead, then cleaned up the data and changed the datatype.
+I did not run into many issues on this short project, however importing the data gave me a problem initially. This is because I was changing my column datatypes too early, since I wanted to have columns like "call_timestamp" or "csat_score" to be imported as datetime and int respectively. Unfortunately, because there were null values/filler inputs, none of my data would import. To fix this, I imported the data as text first instead, then cleaned up the data and changed the datatype.
 
