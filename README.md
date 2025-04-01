@@ -15,12 +15,15 @@ After importing the spreadsheet, I clean up the data so the columns can have the
 ### Analysis and Results
 
 In order to get an overview of the data I view the totals and find out how many distinct answers are recorded for the qualitative data. This allows me to notice relevant information like there being only four call center locations (call_center) and the satisfaction survey (sentiment) being a list from Very Negative to Very Positive. This gives me a scope for the data before I group it.
+
 ![image](https://github.com/user-attachments/assets/6094c16f-0d31-4ac1-acaf-21b466dee8ed) ![image](https://github.com/user-attachments/assets/bf7a8fee-8504-483e-bd76-1e81cbfde488)
 
 I then check the breakdown by calculating the rates of appearance for each answer. This data manipulation is important because it starts to detail information about the customers and what they prefer instead of the data itself. This can show clearly why most people call (reason) or how they communicate (channel).
+
 ![image](https://github.com/user-attachments/assets/4974524f-64f4-4a35-a50d-1bc7eeb04317) ![image](https://github.com/user-attachments/assets/6ee212c5-891c-4c43-b75b-94f88b9d9966)
 
 Finally, I compare the data in relation to each other, to determine how customers tend to behave and feel in certain conditions. This can be seen in why people call in different states and how long the call was based on how people leave the call feeling. This type of data analysis gives a greater understanding of the subjects and their needs.
+
 ![image](https://github.com/user-attachments/assets/4f90f8b6-5b52-4020-a422-c6b0304041ce) ![image](https://github.com/user-attachments/assets/5400c5bd-178b-418a-b379-60c3552e1fcc)
 
 ### Issues
